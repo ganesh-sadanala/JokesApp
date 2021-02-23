@@ -1,0 +1,6 @@
+package com.ganesh.springbootjokesapp.services;
+
+public interface JokeService {
+
+    String getJoke();
+}
